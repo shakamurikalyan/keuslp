@@ -23,7 +23,7 @@
 </script>
 
 <div class="container7 container-fluid pt-5">
-    <img src="src/lib/images/wizard.png" alt="wizard image" class="wizard" />
+    <img src="images/wizard.png" alt="wizard image" class="wizard" />
     <div class="main7 col-md-4 float-end rightFloat">
         <h1 class="mainHead7 mb-5">Ambience <br/>
             in your palm</h1>

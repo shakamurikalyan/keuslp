@@ -36,7 +36,7 @@
     <h1 class="mainHead6">Meet the smart console</h1>
     <p class="mainDesc6">The only switch system your home needs.</p>
     <p class="desc6">A home becomes an aesthetic marvel when every single element comes together to define its character. Such exclusive homes deserve the most beautiful consoles.</p>
-    <img class="image" src="src/lib/images/console.png" alt="console image" />
+    <img class="image" src="images/console.png" alt="console image" />
 </div>
 
 <style>

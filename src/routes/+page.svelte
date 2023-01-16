@@ -63,7 +63,7 @@
 <!-- <p>{innerWidth}</p> -->
 <div class="main">
     <!-- <div class="scaleDiv"> -->
-        <div class="section1 section">
+        <div class="section1 section" style="background-image: url(images/hall.jpg);">
             <div class="content">
                 <div class="intro">
                     <h1 class="mainHeading ani1">Truly smart</h1>
@@ -220,7 +220,6 @@
         overflow: hidden;
     }
     .section1{
-        background-image: url(../lib/images/hall.jpg);
         /* background-color: transparent; */
         background-size:100% 100%;
         color:transparent;

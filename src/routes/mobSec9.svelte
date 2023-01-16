@@ -75,7 +75,7 @@
             Media Control
         </h2>
         <div class="mobImg9">
-            <img src="src/lib/images/app.png" alt="app image" class="mimg9">
+            <img src="images/app.png" alt="app image" class="mimg9">
         </div>
     </div>
 </div>

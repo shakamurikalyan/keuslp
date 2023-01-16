@@ -35,7 +35,7 @@
 <nav class="navbar fixed-top pt-0 pb-0 navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">
-        <img src="src/lib/images/logo.png" alt="logo" class="mainLogo">
+        <img src="images/logo.png" alt="logo" class="mainLogo">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

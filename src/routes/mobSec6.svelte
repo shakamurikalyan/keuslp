@@ -35,7 +35,7 @@
         <p class="mobDesc6">The only switch system your home needs.</p>
         <p class="mobd6">A home becomes an aesthetic marvel when every single element comes together to define its character. Such exclusive homes deserve the most beautiful consoles.</p>
         <div class="mimg6">
-            <img class="mobImage6" src="src/lib/images/console.png" alt="console image" />
+            <img class="mobImage6" src="images/console.png" alt="console image" />
         </div>
     </div>
 </div>

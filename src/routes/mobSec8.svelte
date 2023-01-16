@@ -58,18 +58,18 @@
         </h1>
         <p class="mobDesc8">Home that listens</p>
         <div class="mobImg8">
-            <img src="src/lib/images/bedRoom.png" alt="bedroom image" class="mimg8">
-            <img src="src/lib/images/voice.png" alt="voice control image" class="mvimg8">
+            <img src="images/bedRoom.png" alt="bedroom image" class="mimg8">
+            <img src="images/voice.png" alt="voice control image" class="mvimg8">
         </div>
         {#each obj as o,i}
             <h1 class="mobTitle8">{o.title}</h1>
             <p class="mobd8">{o.desc}</p>
         {/each}
         <div class="mobImg8-1">
-            <img src="src/lib/images/googleHome.png" alt="google home image" class="mimg8-1">
+            <img src="images/googleHome.png" alt="google home image" class="mimg8-1">
         </div>
         <div class="mobImg8-2">
-            <img src="src/lib/images/alexa.png" alt="alexa image" class="mimg8-2">
+            <img src="images/alexa.png" alt="alexa image" class="mimg8-2">
         </div>
         <p class="mobDesc8-1">
             Amazon, Alexa adn all related logo are trademarks of amazon.com, 
