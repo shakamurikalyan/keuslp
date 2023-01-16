@@ -1,12 +1,4 @@
 {
-  "src/lib/images/bedRoom.png": {
-    "file": "_app/immutable/assets/bedRoom-78b5eb24.png",
-    "src": "src/lib/images/bedRoom.png"
-  },
-  "src/lib/images/hall.jpg": {
-    "file": "_app/immutable/assets/hall-5b0def5b.jpg",
-    "src": "src/lib/images/hall.jpg"
-  },
   "src/routes/+layout.css": {
     "file": "_app/immutable/assets/_layout-aa45f899.css",
     "src": "src/routes/+layout.css"
@@ -16,8 +8,24 @@
     "src": "fa.css"
   },
   "src/routes/+page.css": {
-    "file": "_app/immutable/assets/_page-74769d19.css",
+    "file": "_app/immutable/assets/_page-9e948541.css",
     "src": "src/routes/+page.css"
+  },
+  ".svelte-kit/generated/nodes/2.js": {
+    "file": "_app/immutable/chunks/2-715d9a15.js",
+    "src": ".svelte-kit/generated/nodes/2.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/+page.svelte"
+    ]
+  },
+  ".svelte-kit/generated/nodes/0.js": {
+    "file": "_app/immutable/chunks/0-2f178b94.js",
+    "src": ".svelte-kit/generated/nodes/0.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/+layout.svelte"
+    ]
   },
   ".svelte-kit/generated/nodes/1.js": {
     "file": "_app/immutable/chunks/1-204da955.js",
@@ -31,22 +39,6 @@
     "file": "_app/immutable/chunks/index-e7c93ec8.js",
     "imports": [
       "_index-73212ea0.js"
-    ]
-  },
-  ".svelte-kit/generated/nodes/2.js": {
-    "file": "_app/immutable/chunks/2-ec378ba2.js",
-    "src": ".svelte-kit/generated/nodes/2.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "src/routes/+page.svelte"
-    ]
-  },
-  ".svelte-kit/generated/nodes/0.js": {
-    "file": "_app/immutable/chunks/0-ce46610b.js",
-    "src": ".svelte-kit/generated/nodes/0.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "src/routes/+layout.svelte"
     ]
   },
   "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
@@ -65,7 +57,7 @@
     ]
   },
   "src/routes/+layout.svelte": {
-    "file": "_app/immutable/components/pages/_layout.svelte-124da6ab.js",
+    "file": "_app/immutable/components/pages/_layout.svelte-d7f5d17e.js",
     "src": "src/routes/+layout.svelte",
     "isEntry": true,
     "imports": [
@@ -89,7 +81,7 @@
     "file": "_app/immutable/chunks/index-73212ea0.js"
   },
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-f12c8951.js",
+    "file": "_app/immutable/start-e09e7a6c.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -103,7 +95,7 @@
     ]
   },
   "src/routes/+page.svelte": {
-    "file": "_app/immutable/components/pages/_page.svelte-dc799f24.js",
+    "file": "_app/immutable/components/pages/_page.svelte-1616506b.js",
     "src": "src/routes/+page.svelte",
     "isEntry": true,
     "imports": [
@@ -112,11 +104,7 @@
       "_fa-98c9a661.js"
     ],
     "css": [
-      "_app/immutable/assets/_page-74769d19.css"
-    ],
-    "assets": [
-      "_app/immutable/assets/bedRoom-78b5eb24.png",
-      "_app/immutable/assets/hall-5b0def5b.jpg"
+      "_app/immutable/assets/_page-9e948541.css"
     ]
   }
 }

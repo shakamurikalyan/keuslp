@@ -143,7 +143,7 @@
                                         }
                                     }
                                 }
-                                poster="src/lib/videos/{tabs[i]}/poster.jpg"
+                                poster="videos/{tabs[i]}/poster.jpg"
                                 class="mobV10"></video>
                             </div>
                             <h1 class="mobTitle10">{o.title}</h1>

@@ -54,7 +54,7 @@
         <h1 class="mainHead12 mt-5">Smart Home Projects</h1>
         <p class="desc12">Choose your controls. </p>
         {#each arr as img}
-            <img src="src/lib/images/img{img}.png" alt="img{img}" class="col-md-2 col-sm-6 img12">
+            <img src="images/img{img}.png" alt="img{img}" class="col-md-2 col-sm-6 img12">
         {/each}
     </div>
 </div>

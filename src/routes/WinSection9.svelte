@@ -47,7 +47,7 @@
             <Col>
                 <div class="img9-1">
 
-                    <img src="src/lib/images/app.png" alt="app image" class="img9">
+                    <img src="images/app.png" alt="app image" class="img9">
                 </div>
             </Col>
             <Col class="pt-5 container-fluid">

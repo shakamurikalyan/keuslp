@@ -39,7 +39,7 @@
         <p class="mobDesc12">Choose your controls. </p>
         <div class="mobImages12">
             {#each arr as o}
-                <img src="src/lib/images/img{o}.png" alt="img{o}" class="col-6 img12">
+                <img src="images/img{o}.png" alt="img{o}" class="col-6 img12">
             {/each}
         </div>
     </div>

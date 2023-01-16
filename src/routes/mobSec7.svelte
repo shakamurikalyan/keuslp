@@ -58,7 +58,7 @@
             {/each}
         </div>
         <div class="mobi7">
-            <img src="src/lib/images/wizard.png" alt="wizard image" class="mimg7">
+            <img src="images/wizard.png" alt="wizard image" class="mimg7">
         </div>
     </div>
 </div>

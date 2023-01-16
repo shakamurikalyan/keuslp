@@ -33,12 +33,12 @@
         }
     }
 
-    let tabs=["baba","neelesh","priyanka","sravanthiKollur","suprajarao","vaishnaviLinga","naveenPanuganti"]
+    let tabs=["baba","neelesh","priyanka","sravanthiKollur","suprajaRao","vaishnaviLinga","naveenPanuganti"]
     let arr=[
         {
             title:"Baba Shashank",
             desc:"Space Fiction Studio",
-            link:"https://keus-resources.s3.ap-south-1.amazonaws.com/landing_page_files/drive-download-20230116T073317Z-001/Architect+videos/baba.webm"
+            link:"https://keus-resources.s3.ap-south-1.amazonaws.com/landing_page_files/drive-download-20230116T073317Z-001/Architect+videos/Baba+Shashank+Final.webm"
         },
         {
             title:"S Neelesh Kumar",
@@ -58,12 +58,12 @@
         {
             title:"Supraja Rao",
             desc:"Design House",
-            link:"https://keus-resources.s3.ap-south-1.amazonaws.com/landing_page_files/drive-download-20230116T073317Z-001/Architect+videos/supraja-rao.webm"
+            link:"https://keus-resources.s3.ap-south-1.amazonaws.com/landing_page_files/drive-download-20230116T073317Z-001/Architect+videos/Supraja+Rao+Hd+1080.webm"
         },
         {
             title:"Vishnavi Linga",
             desc:"VAL Atelier",
-            link:"https://keus-resources.s3.ap-south-1.amazonaws.com/landing_page_files/drive-download-20230116T073317Z-001/Architect+videos/lingavaishanavi.webm"
+            link:"https://keus-resources.s3.ap-south-1.amazonaws.com/landing_page_files/drive-download-20230116T073317Z-001/Architect+videos/Vaishnavi+Linga.webm"
         },
         {
             title:"Naveen Panuganti",
@@ -152,7 +152,7 @@
                                 class="video10 d-inline-block"
                                 preload="auto"
                                 id="video-{i}"
-                                poster="src/lib/videos/{tab}/poster.jpg"
+                                poster="videos/{tab}/poster.jpg"
                                 src="{arr[i]?.link}"
                                 on:click={(e)=>{
                                     if(active==i+1){

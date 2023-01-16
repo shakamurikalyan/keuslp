@@ -54,7 +54,7 @@
             desc:"Cyprus Palms",
             dd:"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
             stars:3,
-            link:"https://keus-resources.s3.ap-south-1.amazonaws.com/landing_page_files/drive-download-20230116T073317Z-001/Home+Videos/Compressed+Videos/brijesh.webm"
+            link:"https://keus-resources.s3.ap-south-1.amazonaws.com/landing_page_files/drive-download-20230116T073317Z-001/Home+Videos/Compressed+Videos/Brijesh+House+Villa+No-13.webm"
         }
     ]
 
@@ -148,7 +148,7 @@
                                     on:mouseleave={()=>scale=1}
                                     id="video-{i+1}"
                                     preload="auto"
-                                    src="{arr[i]?.link}" poster="src/lib/videos/homes/{i+1}/poster.jpg" on:click={(e)=>{
+                                    src="{arr[i]?.link}" poster="videos/homes/{i+1}/poster.jpg" on:click={(e)=>{
                                         if(e.target.paused){
                                             playing=true;
                                             e.target.play();

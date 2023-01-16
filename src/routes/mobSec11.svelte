@@ -152,7 +152,7 @@
                                     }
                                 }
                             }
-                            poster="src/lib/videos/homes/{i+1}/poster.jpg"
+                            poster="videos/homes/{i+1}/poster.jpg"
                             class="mobV11"></video>
                         </div>
                     </SplideSlide>

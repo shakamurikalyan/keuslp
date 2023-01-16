@@ -54,10 +54,10 @@
                         <p class="titleDesc8">for a complete smart home experience</p>
                         <Row class="col-10">
                             <Col class="d-flex align-items-center">
-                                <img src="src/lib/images/googleHome.png" alt="googleHome image" class="img8-1">
+                                <img src="images/googleHome.png" alt="googleHome image" class="img8-1">
                             </Col>
                             <Col>
-                                <img src="src/lib/images/alexa.png" alt="alexa image" class="img8-2">
+                                <img src="images/alexa.png" alt="alexa image" class="img8-2">
                             </Col>
                         </Row>
                         <p class="desc8-1">Amazon, Alexa adn all related logo are trademarks of amazon.com, Inc. or its affiliates Google, Google play Google home and other marks are trademarks of Google LLC.</p>
@@ -65,8 +65,8 @@
                 </div>
             </Col>
             <Col>
-                <div class="image8">
-                    <img src="src/lib/images/voice.png" alt="voice control" class="img8-3">
+                <div class="image8" style="background-image:url(images/bedRoom.png)">
+                    <img src="images/voice.png" alt="voice control" class="img8-3">
                 </div>
             </Col>
         </Row>
@@ -78,7 +78,6 @@
         overflow: hidden;
     }
     .image8{
-        background-image: url(../lib/images/bedRoom.png);
         background-size: 100% 100%;
         min-height:100vh;
     }
